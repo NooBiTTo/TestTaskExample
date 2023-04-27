@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb042e0f07f54de9bc7447e45bcf3ed1, type: 3}
+  m_Name: BlueIngredientData
+  m_EditorClassIdentifier: 
+  typeID: 2
+  prefab: {fileID: 1553800031761671213, guid: 113ff4d29f02cbe4b8094e75a8dc0c7b, type: 3}
+  description: '- <color=blue>BLUE</color>'
