@@ -1,4 +1,4 @@
-# Test Task Example
+# Task
 
 Unity test consists of two tasks described with User Stories. 
 Provided scene “Playground” contains a Player gameobject with basic movement and camera script and simple environment. 
