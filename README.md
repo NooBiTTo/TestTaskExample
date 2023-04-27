@@ -30,6 +30,7 @@ Acceptance criteria:
 - Right chamber of crafting station is where new item is spawned
 - Crafting is permitted only when proper type and quantity of items is placed in left chamber:
 	- Red + Green = Yellow
+	- Red + Green = Yellow
 	- Red + Blue = Magenta
 	- Blue + Green = Cyan
 	- Green + Red + Blue = White
