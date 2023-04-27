@@ -29,10 +29,10 @@ Acceptance criteria:
 - Left chamber of crafting station is where player put ingredients
 - Right chamber of crafting station is where new item is spawned
 - Crafting is permitted only when proper type and quantity of items is placed in left chamber:
-		Red + Green = Yellow
-		Red + Blue = Magenta
-		Blue + Green = Cyan
-		Green + Red + Blue = White
+	- Red + Green = Yellow
+	- Red + Blue = Magenta
+	- Blue + Green = Cyan
+	- Green + Red + Blue = White
 - Crafting is induced by pressing button on the machine
 - Button press is executed by aiming at it and pressing LMB
 - Button visually present 3 states (default, aimed at, clicked)
